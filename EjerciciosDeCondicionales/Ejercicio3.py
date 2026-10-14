@@ -1,5 +1,5 @@
-numero1 = float(input("Introduce un número:"))
-numero2 = float(input("Introduce un segundo número:"))
+numero1 = float(input("Introduce un número para que sea dividendo:"))
+numero2 = float(input("Introduce un segundo número para que sea divisor:"))
 
 if numero2 == 0 :
     input("Error. El divisor no puede ser 0")
